@@ -1,11 +1,12 @@
-#include<stdio.h>
-//Preprocessor Directive
-#include<conio.h>
+#include<stdio.h> //Standard Input/Output
+#include<conio.h> //Console Input/Output
 
-int main()
+void main()
 {
-    clrscr();
-    printf("Hello World!");
-    getch();
-    return 0;
+	clrscr(); //clear screen
+
+	printf("Hello World");
+
+	getch();  //get character
+
 }
