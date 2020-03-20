@@ -1,0 +1,36 @@
+int arr[5]; //1D - Array
+
+int arr[2][3]; //2D- Array
+
+int arr[2][5][7]; //3D - Array: Stack of Data tables: LIFO
+
+Palindrome Program:
+
+	5005 = 5005
+		
+	200 = 002 //not a palindrome number
+	1011 = 1101 //not a palindrome number
+	212 = 212 //palindrome number
+	1001 = 1001 
+	5005 = 5005
+
+Fibonacci Series:
+
+	0 1 1 2 3 5 8 13
+
+Factorial Number:
+
+	5! = 5 * 4 * 3 * 2 * 1= 120
+	
+	4! = 4 * 3 * 2 * 1
+	
+	2! = 2 * 1
+
+Reverse Number:
+
+	100 = 001
+	12345 = 54321
+
+Sum of Digits:
+	
+	121 = 1+2+1= 4
