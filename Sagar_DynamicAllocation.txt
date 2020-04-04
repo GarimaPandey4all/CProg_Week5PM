@@ -1,0 +1,6 @@
+Malloc(), Calloc()-(with allocation initialized also with zero value) and Realloc()- Memory Allocation
+
+malloc()-5 bytes
+
+Realloc()- 10 bytes
+
